@@ -76,9 +76,10 @@ Standing on the shoulders of all the giants before me.
 #### Bartek Kus
 * Homepage: http://bartekus.com
 * E-mail: bartekus@gmail.com
-* Twitter: [@twitterhandle](https://twitter.com/Bartekus "Bartekus on twitter")
+* Twitter: [@Bartekus](https://twitter.com/Bartekus "Bartekus on twitter")
 
 ## License
 
 Copyright (c) 2015 Bartek Kus
-Licensed under the MIT license.
+
+Licensed under the MIT license
