@@ -3,7 +3,7 @@ Basic JavaScript ToDo App
 Vanilla (**JavaScript**)-only
 
 #### Screenshot
-![Screenshot software](https://github.com/Bartekus/todo-js-basic/todo-js-basic.png "screenshot software")
+![Screenshot software](https://raw.githubusercontent.com/Bartekus/todo-js-basic/master/todo-js-basic.png "screenshot software")
 
 
 
@@ -73,9 +73,9 @@ Basic non-automated manual browser test aka no test :P
 Standing on the shoulders of all the giants before me.
 
 ## Contact
-#### Bartek Kus/Araphel
-* Homepage: [bartekus.com]: http://bartekus.com
-* e-mail: [bartekus@gmail.com]: bartekus[at]gmail[dot]com
+#### Bartek Kus
+* Homepage: http://bartekus.com
+* E-mail: bartekus@gmail.com
 * Twitter: [@twitterhandle](https://twitter.com/Bartekus "Bartekus on twitter")
 
 ## License
