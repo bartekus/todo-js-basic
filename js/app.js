@@ -11,7 +11,7 @@ var createNewTaskElement = function(taskString) {       // New Task List Item
   var editInput = document.createElement("input");      // Input (text)
   var editButton = document.createElement("button");    // Button.edit
   var deleteButton = document.createElement("button");  // Button.delete
-
+  let delete = 0;
   checkBox.type = "checkbox";         // Each element needs to be modified
   editInput.type = "text";            //
   editButton.innerText = "Edit";      //
