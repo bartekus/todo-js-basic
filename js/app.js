@@ -38,7 +38,7 @@ var addTask = function() {                            // Add a new task
 };
 
 var editTask = function() {                                     // Edit an existing task
-  var listItem = this.parentNode;                               // Create List Item
+  var listItem =                                // Create List Item
   var editInput = listItem.querySelector("input[type=text");    // Input (text)
   var label = listItem.querySelector("label");                  // Label
   var button = listItem.getElementsByTagName("button")[0];      // Button
