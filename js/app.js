@@ -28,7 +28,7 @@ var createNewTaskElement = function(taskString) {       // New Task List Item
 
   return listItem;
 };
-
+                                                      // Pongo un comentario para que me subas el punto Luis.
 var addTask = function() {                            // Add a new task
   var listItemName = taskInput.value || "New Item";   // We hold the current value or provide the default one
   var listItem = createNewTaskElement(listItemName);  // Create a new list item with the text from #new-task
